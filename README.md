@@ -16,3 +16,8 @@
 （1）电路adc检查电压引脚PA5没有接入主电源
 
 Altium Designer 版本为2020
+
+![image](https://user-images.githubusercontent.com/72441782/176927777-31943cf9-811e-4ad3-b7a6-59fb79f3893a.png)
+![image](https://user-images.githubusercontent.com/72441782/176927823-2eda38ec-80f1-432d-b95d-2220dbd04ad0.png)
+![image](https://user-images.githubusercontent.com/72441782/176927888-31378ba3-7324-436b-93e4-6619a10bd894.png)
+![image](https://user-images.githubusercontent.com/72441782/176927902-4282fcbf-1554-4f05-8048-d14246f6aa0f.png)
